@@ -1,0 +1,33 @@
+{
+  "label2idx": {
+    "B-LOC": 0,
+    "B-MISC": 1,
+    "B-ORG": 2,
+    "I-LOC": 3,
+    "I-MISC": 4,
+    "I-ORG": 5,
+    "I-PER": 6,
+    "O": 7
+  },
+  "idx2label": {
+    "0": "B-LOC",
+    "1": "B-MISC",
+    "2": "B-ORG",
+    "3": "I-LOC",
+    "4": "I-MISC",
+    "5": "I-ORG",
+    "6": "I-PER",
+    "7": "O"
+  },
+  "num_labels": 8,
+  "label_names": [
+    "B-LOC",
+    "B-MISC",
+    "B-ORG",
+    "I-LOC",
+    "I-MISC",
+    "I-ORG",
+    "I-PER",
+    "O"
+  ]
+}

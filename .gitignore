@@ -16,3 +16,8 @@ data/processed/*
 
 # OS files
 .DS_Store
+# Large model files
+*.keras
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
